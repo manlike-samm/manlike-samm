@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Samuel.
-- 👀 I’m interested in anyhting Javascript and cloud engineering
-- 🌱 I’m currently working on my js skills, making web applications using HTML, tailwindCss and of course Vanilla JS(for now).
+- 👀 I’m interested in anything Javascript and cloud engineering.
+- 🌱 I’m constantly working on my js skills, making dynamic web applications using React or/and Nextjs, and of course tailwindcss for styling.
 - 💞️ I’m looking to collaborate on any project that would help further my chosen path
 - 📫 you can reach via my email donaldjnr1@gmail.com
 
